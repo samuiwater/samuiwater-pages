@@ -1,0 +1,12 @@
+title: Samui Water
+description: >-
+  Articles from Samui Water, samuiwater.com.
+url: https://samuiwater.github.io
+baseurl: /samuiwater-pages
+theme: minima
+permalink: /:year/:month/:day/:title/
+future: true
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
